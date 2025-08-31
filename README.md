@@ -2,7 +2,7 @@
 
 A **Streamlit application** was built for real-time stroke prediction:  
 
-👉 [Live App](https://strokeprediction-es29qwjjeufs5ro8cxwiwf.streamlit.app/)  
+👉 [Live App](https://stroke-prediction-00.streamlit.app/)  
 
 ---
 
@@ -57,7 +57,7 @@ We trained and compared multiple models:
 ### 📈 ROC Curves  
 ![ROC Curve](Images/ROC.png)  
 
-![ROC Curve XGBoost](Images\ROC_XGBoost.png)
+![ROC Curve XGBoost](Images/ROC_XGBoost.png)
 
 ---
 
